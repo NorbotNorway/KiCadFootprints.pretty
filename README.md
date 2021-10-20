@@ -1,5 +1,5 @@
 # NorBotKiCadFootprints.pretty
-Our custom PCB footprints for KiCad (www.kicad-pcb.org)
+Our custom PCB footprints for KiCad (www.kicad.org)
 
 ## How to add to KiCad ##
 
